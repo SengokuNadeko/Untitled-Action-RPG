@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hooded_character 1_0
+      name: hooded_character_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe2148bf7982f304f961d33c7d5bac2c
-      internalID: -460676952
+      spriteID: 4e444089b6dd8dc4cb3287c1b0c99404
+      internalID: 1124289800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_1
+      name: hooded_character_1
       rect:
         serializedVersion: 2
         x: 16
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea101862d236bbc4d9208541e4db1d46
-      internalID: -1230422412
+      spriteID: 4c43f5c8ee4a02349bd88ad3c67ea5e4
+      internalID: -636521213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_2
+      name: hooded_character_2
       rect:
         serializedVersion: 2
         x: 32
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1282cd022f2ddf4d8221af7835a66ba
-      internalID: -1647523935
+      spriteID: 3496258767976c14baabdf1727c537c3
+      internalID: -342128244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_3
+      name: hooded_character_3
       rect:
         serializedVersion: 2
         x: 0
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e86434efe4d7abd4f8739719436bddc2
-      internalID: -239427041
+      spriteID: f002869be867e71438b0e69cb8914801
+      internalID: 689547497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_4
+      name: hooded_character_4
       rect:
         serializedVersion: 2
         x: 16
@@ -214,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81c1bb4ec501bb248b1d5845f0ba329a
-      internalID: 645858483
+      spriteID: 31f5543d1034d5442860729b88ad3150
+      internalID: -1886300732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_5
+      name: hooded_character_5
       rect:
         serializedVersion: 2
         x: 0
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbc9f4330c9065c4585c8b13bd57eba7
-      internalID: 1017894641
+      spriteID: 6f1fed87bb93f6a4bb457239ad18d3be
+      internalID: 1442640936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_6
+      name: hooded_character_6
       rect:
         serializedVersion: 2
         x: 16
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd4c6c8ad1cef74a98c189a334491bc
-      internalID: 808875383
+      spriteID: d28094faa2e650d4facc76def36ebda0
+      internalID: -2132937289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_7
+      name: hooded_character_7
       rect:
         serializedVersion: 2
         x: 32
@@ -277,14 +277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c8befeffef77d948af3ffc3fee9afa8
-      internalID: 1578065322
+      spriteID: d5b4f0720ff6b2c42b33178b4e0299aa
+      internalID: -142922177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_8
+      name: hooded_character_8
       rect:
         serializedVersion: 2
         x: 0
@@ -298,14 +298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d037c4cb143c22e4da1bc2b28ad59d78
-      internalID: 1269778057
+      spriteID: ea77535cca5c2b542883885fae520baf
+      internalID: -1955552486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hooded_character 1_9
+      name: hooded_character_9
       rect:
         serializedVersion: 2
         x: 16
@@ -319,8 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bf4c89ad993741418cb41d582aa5a33
-      internalID: 527043132
+      spriteID: 7f856bd6df70a55459452824da938e5a
+      internalID: 756525250
       vertices: []
       indices: 
       edges: []
@@ -336,16 +336,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      hooded_character 1_0: -460676952
-      hooded_character 1_2: -1647523935
-      hooded_character 1_4: 645858483
-      hooded_character 1_6: 808875383
-      hooded_character 1_5: 1017894641
-      hooded_character 1_8: 1269778057
-      hooded_character 1_1: -1230422412
-      hooded_character 1_3: -239427041
-      hooded_character 1_9: 527043132
-      hooded_character 1_7: 1578065322
+      hooded_character_1: -636521213
+      hooded_character_9: 756525250
+      hooded_character_5: 1442640936
+      hooded_character_3: 689547497
+      hooded_character_2: -342128244
+      hooded_character_6: -2132937289
+      hooded_character_0: 1124289800
+      hooded_character_8: -1955552486
+      hooded_character_4: -1886300732
+      hooded_character_7: -142922177
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
